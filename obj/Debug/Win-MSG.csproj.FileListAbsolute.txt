@@ -1,0 +1,7 @@
+C:\Users\Wayne\Documents\SharpDevelop Projects\MSG-GUI\MSG-GUI\bin\Debug\Win-MSG.exe
+C:\Users\Wayne\Documents\SharpDevelop Projects\MSG-GUI\MSG-GUI\bin\Debug\Win-MSG.pdb
+C:\Users\Wayne\Documents\SharpDevelop Projects\MSG-GUI\MSG-GUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Wayne\Documents\SharpDevelop Projects\MSG-GUI\MSG-GUI\obj\Debug\MSG_GUI.MainForm.resources
+C:\Users\Wayne\Documents\SharpDevelop Projects\MSG-GUI\MSG-GUI\obj\Debug\Win-MSG.csproj.GenerateResource.Cache
+C:\Users\Wayne\Documents\SharpDevelop Projects\MSG-GUI\MSG-GUI\obj\Debug\Win-MSG.exe
+C:\Users\Wayne\Documents\SharpDevelop Projects\MSG-GUI\MSG-GUI\obj\Debug\Win-MSG.pdb
